@@ -1,18 +1,18 @@
 # Hi 👋, I'm Sandesh Adhikari
 
-A passionate Java Developer from Nepal
+A passionate Java Developer and a electroncis,communication and informatin engineering student  from Nepal.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sandesh12adk&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 🌱 About Me
-I am a dedicated and passionate software developer with expertise in Java and a variety of other programming languages and technologies. My main goal is to continue learning and growing as a developer while creating innovative and impactful applications.
+I am a dedicated and passionate  developer with expertise in Java and a variety of other programming languages and technologies. My main goal is to continue learning and growing as a developer while creating innovative and impactful applications.
 
 ## 📬 Connect with Me
 Feel free to reach out to me through any of the platforms below:
 
 - [LinkedIn](#)
 - [Twitter](#)
-- [Email](#)
+- [Email](#sandesh12adk@gmail.com)
 
 ## 🛠️ Languages & Tools
 I am proficient in a variety of programming languages and tools. Below are some of the technologies I use:
