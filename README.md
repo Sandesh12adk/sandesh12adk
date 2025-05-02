@@ -48,6 +48,9 @@ Here are some of my projects:
 - [Matrix Operation App](#) – A mobile app for performing various matrix operations like addition, subtraction, and multiplication.
 - [Hotel Reservation System (JavaFX Desktop App)](#) – A desktop app built with JavaFX for managing hotel room bookings and reservations.
 - [Various Java APIs](#) – Worked on several Java APIs like weather data API, location-based services API, etc., integrating them into projects.
+- [HamroSchoolWebsite](#) – Complete website for a school, with features like message sending, Role based accessed
+- [OnlineSchoppingApp](#) – Backend for Onlineshopping App,( User, address, making orders, adding to cart, view all products, adding new products) , Role base accessed, Spring Security with JWT made with Spring
+- bood-> Ongoing project
 
 Feel free to check out my [GitHub](https://github.com/sandesh12adk) for more!
 
