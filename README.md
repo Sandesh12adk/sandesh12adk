@@ -31,7 +31,7 @@ I am a dedicated and passionate  developer with expertise in Java and a variety 
 - Apache Kafka  
 - WebSocket  
 
-### ⚡ Caching
+### ⚡ Caching and In-memory
 - Redis  
 
 ### 🐳 DevOps & Containerization
