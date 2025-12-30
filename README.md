@@ -6,6 +6,19 @@ A passionate Java Developer and a electroncis,communication and informatin engin
 
 ## 🌱 About Me
 I am a dedicated and passionate  developer with expertise in Java and a variety of other programming languages and technologies. My main goal is to continue learning and growing as a developer while creating innovative and impactful applications.
+##  My Skills
+spring boot
+spirng security( JWT, OAUTH2)
+JPA hibernet
+Spring cloud
+Microservices( Centralized Config, Service Registation and discovery with Eureka, Load Balancing, API gateway, Microservices Security)
+MySQL( SQL optimization , Relational algebra)
+websocket
+Apache Kafka
+Redis
+Docker
+Kubernetes
+
 
 ## 📬 Connect with Me
 Feel free to reach out to me through any of the platforms below:
