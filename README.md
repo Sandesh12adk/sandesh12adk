@@ -39,8 +39,8 @@ I am proficient in a variety of programming languages and tools. Below are some 
 
 ## 💼 Projects
 Here are some of my projects:
-
-- [Home Automation System](#) – A smart home automation system to control appliances using IoT devices and mobile apps.
+- [Rubik's cube solver](#) – A software which command ESP32 to solve the rubik's cube.
+- [Stranger blink](#) – A site for anynomous chatting and video calling similar to omegal.
 - [Wi-Fi Controlled Car](#) – A car controlled over Wi-Fi with a mobile app, built using Arduino and Wi-Fi modules.
 - [Line Following Bot](#) – A robot that follows a pre-defined line path using sensors and motors.
 - [Card Shuffling Machine](#) – An automated machine that shuffles a deck of cards using motors and Arduino.
