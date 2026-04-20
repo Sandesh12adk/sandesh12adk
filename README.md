@@ -1,7 +1,7 @@
 # Hi 👋, I'm Sandesh Adhikari
 
 A passionate Java Developer and a electroncis,communication and informatin engineering student  from Nepal.
-Currently Working on Air Defence System Design.
+Currently working on an Air Defence System project, focusing on system design, signal processing, and real-time data handling
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sandesh12adk&label=Profile%20views&color=0e75b6&style=flat)
 
