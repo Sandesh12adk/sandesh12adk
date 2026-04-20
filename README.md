@@ -7,6 +7,11 @@ A passionate Java Developer and a electroncis,communication and informatin engin
 ## 🌱 About Me
 I am a dedicated and passionate  developer with expertise in Java and a variety of other programming languages and technologies. My main goal is to continue learning and growing as a developer while creating innovative and impactful applications.
 ## 🛠️ My Skills
+### Electronics and Communicaiton
+- Filter Design
+- Control System
+- Antenna Design
+- Embedded Systemj
 ### java 8+
 
 ### 🧩 Spring Ecosystem
